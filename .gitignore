@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# creds
+client_secret.json
+spotify_creds.py
+
 # C extensions
 *.so
 
