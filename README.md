@@ -15,5 +15,5 @@ Spotify credientials go into `spotify_creds.py` and youtube oauth json file goes
 
 after that the script can be run with:
 ```
-python spotube.py -un <Your spotify username> -pl <Spotify playlist url> -pid <OPTIONAL if left empty a new playlist will be created> 
+python spotube.py -pl <Spotify playlist url> -pid <OPTIONAL if left empty a new playlist will be created> 
 ```
