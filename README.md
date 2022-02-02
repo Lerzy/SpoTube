@@ -17,3 +17,6 @@ after that the script can be run with:
 ```
 python spotube.py -pl <Spotify playlist url> -pid <OPTIONAL if left empty a new playlist will be created> 
 ```
+
+# Limitations
+Using free version of youtube api, you will hit your daily quota limit after 200 songs, or 199 songs when creating a playlist thru the script. 
